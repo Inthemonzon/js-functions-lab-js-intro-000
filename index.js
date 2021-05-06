@@ -9,3 +9,7 @@ function happyHolidaysTo(Mom) {
 function happyCustomHolidayTo(Birthday, Mom) {
   return `Happy ${Birthday}, ${Mom}!`
 }
+
+function holidayCountdown(Christmas, 10) {
+  return `It's ${10} days until ${Christmas}!`
+}
